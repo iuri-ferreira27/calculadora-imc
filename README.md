@@ -21,7 +21,7 @@ Aplicação web para calcular o **Índice de Massa Corporal (IMC)** com base no 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/calculadora-imc.git
+   git clone https://github.com/iuri-ferreira27/calculadora-imc.git
    ```
 
 2. Entre na pasta do projeto:
@@ -49,4 +49,4 @@ IMC = peso (kg) ÷ altura² (m)
 
 ## 👨‍💻 Autor
 
-Feito por [Seu Nome](https://github.com/SEU-USUARIO)
+Feito por [iuri-ferreira27](https://github.com/iuri-ferreira27)
